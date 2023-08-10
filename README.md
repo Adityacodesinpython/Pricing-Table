@@ -1,2 +1,2 @@
 # Pricing-Table
-A simple pricing table using flexbox and some css
+A simple and attractive pricing table using flexbox and some css
